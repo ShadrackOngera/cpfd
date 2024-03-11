@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "470342703401",
+    "project_id": "cpfd-cf0e6",
+    "storage_bucket": "cpfd-cf0e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470342703401:android:41b0b8e7689fe160bfbf38",
+        "android_client_info": {
+          "package_name": "com.example.cpfd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy5ngyIMgW-PoEw7H9U8WSnCRaIcxCS5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
